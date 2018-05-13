@@ -1,0 +1,97 @@
+body {
+   display: flex;
+    margin: 0%;
+    padding: 0%;
+    background: url(data:image/jpeg;base64,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);
+    font-family: sans-serif;
+}
+.loginbox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    box-sizing: border-box;
+    background: transparent;
+    box-shadow: 0 0px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    transition: .5s;
+}
+
+.loginbox:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0);
+    background: rgba(255, 255, 255, 1);
+}
+
+.glass {
+    width: 100%;
+    height: 100%;
+    padding: 40px;
+    box-sizing: border-box;
+    background: rgba(255, 255, 255, .1);
+    border-radius: 5px;
+    transition: .5;
+}
+
+.glass:hover {
+    transform: translate(20px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.user {
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 20px;
+    height: 50%;
+    width: 50%;
+}
+
+h3 {
+    margin: 0;
+    padding: 0 0 20px;
+    color: black;
+    text-align: center;
+}
+
+.loginbox input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.loginbox input[type="email"],
+.loginbox input[type="password"] {
+    border: none;
+    border-bottom: 2px solid #262626;
+    outline: none;
+    height: 40px;
+    color: #262626;
+    background: transparent;
+    font-size: 16px;
+    padding-left: 20px;
+    box-sizing: border-box;
+}
+
+::placeholder {
+    color: rgba(0, 0, 0, .5);
+}
+
+.inputbox {
+    position: relative;
+}
+
+.inputbox span {
+    position: absolute;
+    top: 10px;
+    color: #262626;
+}
+
+.loginbox input[type="button"] {
+    border: none;
+    outline: none;
+    height: 40px;
+    font-size: 16px;
+    background: #ed292a;
+    color: #fff;
+    border-radius: 20px;
+    cursor: pointer;
+}
